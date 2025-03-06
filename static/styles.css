@@ -1,0 +1,218 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #EEEEEE;
+    box-sizing: border-box;
+}
+
+.quiz-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 900px;
+    margin: 20px auto;
+}
+
+
+#quiz-container {
+    width: 80%;
+    height: 100%;
+    padding: 10px;
+    margin: 10px auto;
+    border: 2px solid #222831;
+    border-radius: 8px;
+    background-color: #00ADB5;
+    box-sizing: border-box;
+}
+
+#counter-container {
+    width: 15%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 8px;
+    background-color: #00ADB5;
+    font-size: 30px;
+    font-weight: bold;
+    color: #393E46;
+    border: 2px solid #222831;
+    box-sizing: border-box;
+}
+
+#options-list {
+    list-style-type: none;
+    padding: 0; /* Removes default padding */
+    width: 100%;
+}
+
+#options-list li {
+    margin-bottom: 10px; /* Adds spacing between options */
+}
+
+h1 {
+    color: #00ADB5;
+    font-size: 65px
+}
+
+h2 {
+    color: #222831
+}
+
+p {
+    color: #393E46
+}
+
+.welcome-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px; /* Space between sections */
+    max-width: 80%; /* Restrict width */
+    margin: 0 auto 40px; /* Center on screen with bottom margin */
+}
+
+.left-section, .right-section {
+    width: 45%; /* Equal width for both sections */
+    text-align: justify;
+}
+
+.divider {
+    display: flex;
+    justify-content: center;
+    width: 2px; /* Thin vertical line */
+    background-color: #222831;
+    height: 250px; /* Stretch across sections */
+}
+
+.option-btn {
+    margin: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    width: 100%; /* Ensures all buttons have the same width */
+    max-width: 650px; /* Sets a reasonable max width */
+    padding: 10px; /* Ensures padding is consistent */
+    font-size: 16px; /* Keeps text readable */
+    text-align: left; /* Aligns text for better readability */
+    border-radius: 8px; /* Smooth rounded corners */
+    border: 2px solid #222831; /* Optional: Adds a border for consistency */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.translate-btn{
+    margin: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    cursor: pointer; /* Ensures all buttons have the same width */
+    max-width: 100px; /* Sets a reasonable max width */
+    font-size: 16px; /* Keeps text readable */
+    text-align: center; /* Aligns text for better readability */
+    border-radius: 8px; /* Smooth rounded corners */
+    border: 2px solid #222831; /* Optional: Adds a border for consistency */
+}
+
+/* Mobile responsiveness - Breakpoint for devices smaller than 768px */
+@media (max-width: 768px) {
+    .quiz-wrapper {
+        flex-direction: column;
+        align-items: center;
+        max-width: 550px;
+    }
+
+    #quiz-container {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #counter-container {
+        width: auto; /* Allow container to fit content */
+        display: flex !important; /* Force flexbox */
+        flex-direction: row !important; /* Ensure items are in a row */
+        align-items: center !important; /* Align items vertically */
+        justify-content: center !important; /* Center items */
+        gap: 10px; /* Add spacing between items */
+        margin: 10px auto; /* Keep it centered */
+        white-space: nowrap; /* Prevent text wrapping */
+    }
+
+    .option-btn {
+        width: 100%;
+    }
+
+    .translate-btn {
+        width: auto;
+        text-align: center; /* Center text inside button */
+        max-width: 120px; /* Set a max width so it wraps */
+        word-wrap: break-word; /* Ensure long words wrap */
+        display: inline-block;
+        margin-top: 10px;
+    }
+
+    .welcome-container {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .left-section, .right-section {
+        width: 100%;
+    }
+
+    .divider {
+        display: none;
+    }
+
+    /* Ensuring counters and translate button are aligned horizontally */
+    #counter-container,
+    .translate-btn {
+        white-space: normal !important; /* Allow text wrapping */
+        display: inline-block;
+        margin-top: 10px;
+        text-align: center;
+    }
+}
+
+/* Additional Breakpoint for very small devices like phones in portrait mode (max-width: 480px) */
+@media (max-width: 480px) {
+    .quiz-wrapper {
+        flex-direction: column;
+        align-items: center;
+        max-width: 300px;
+    }
+
+    #quiz-container {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #counter-container {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    h1 {
+        font-size: 40px;
+
+    }
+
+    .option-btn {
+        width: 100%;
+    }
+
+    .translate-btn {
+        width: auto;
+        display: inline-block;
+        margin-top: 10px;
+    }
+
+    .welcome-container {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .left-section, .right-section {
+        width: 100%;
+    }
+}

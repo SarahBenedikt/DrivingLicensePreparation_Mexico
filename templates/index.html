@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Driving License Test</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>EXAMEN DE MANEJO JALISCO, MEXICO</h1>
+
+    <div class="welcome-container">
+        <div class="left-section">
+            <h2>Bienvenido</h2>
+            <p>¡Bienvenido a nuestra aplicación para prepararte para el examen de licencia de conducir en México! Aquí encontrarás las 108 preguntas oficiales, podrás entrenarlas en una sola sesión y ver tus resultados al final. Utilizamos el estado de preguntas de febrero de 2025 para asegurarnos de que estudies el contenido más actualizado. Además, hemos implementado un botón de traducción al inglés para facilitar la comprensión a los usuarios extranjeros. ¡Buena suerte en tu preparación y éxitos en tu examen!</p>
+        </div>
+        <div class="divider"></div>
+        <div class="right-section">
+            <h2>Welcome</h2>
+            <p>Welcome to our web application for preparing for the Mexican driving license test! Here you will find all 108 official questions, train them all in one go, and see your results at the end. We use the question state from February 2025 to ensure you study the most up-to-date content. Additionally, we have implemented an English translation button to help foreigners better understand the questions. Good luck with your preparation, and we wish you success on your test!</p>
+        </div>
+    </div>
+
+    <div class="quiz-wrapper">
+        <div id="quiz-container"></div>
+        <div id="counter-container">
+            <button id="translate-btn" class="translate-btn">Translate to English</button>
+            <p>✅: <span id="correct-count">0</span></p>
+            <p>❌: <span id="wrong-count">0</span></p>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

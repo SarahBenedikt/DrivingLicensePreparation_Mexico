@@ -1,0 +1,1838 @@
+[
+  {
+    "id": 1,
+    "question_es": "SE PROCEDERÁ COMO MEDIDA DE SEGURIDAD A RETIRAR DE LA CIRCULACIÓN UN VEHÍCULO CUANDO:",
+    "question_en": "AS A SECURITY MEASURE, A VEHICLE WILL BE REMOVED FROM CIRCULATION WHEN:",
+    "options_es": {
+      "A": "Exceda en más de 20 Km/h la velocidad permitida en la vía por la que circule.",
+      "B": "Porte placas sobrepuestas.",
+      "C": "Dé vuelta a la derecha con semáforo en rojo."
+    },
+    "options_en": {
+      "A": "Exceeds the speed limit by more than 20 km/h.",
+      "B": "Carries falsified license plates.",
+      "C": "Turns right at a red light."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 2,
+    "question_es": "SI USTED Y SUS ACOMPAÑANTES UTILIZAN EL CINTURÓN DE SEGURIDAD AL CONDUCIR:",
+    "question_en": "IF YOU AND YOUR PASSENGERS WEAR THE SEAT BELT WHEN DRIVING:",
+    "options_es": {
+      "A": "Se disminuye la posibilidad de lesiones y/o muerte en caso de accidentes y se evita ser multado.",
+      "B": "Se tienen más riesgos en caso de accidente por no poder salir rápido del vehículo.",
+      "C": "Se evita la multa correspondiente solamente en carreteras federales."
+    },
+    "options_en": {
+      "A": "It reduces the risk of injuries and/or death in accidents and avoids fines.",
+      "B": "There are more risks in an accident due to not being able to exit the vehicle quickly.",
+      "C": "It only avoids a fine on federal highways."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 3,
+    "question_es": "DE ACUERDO CON LA LEY, A QUIEN POR PRIMERA OCASIÓN CONDUZCA VEHÍCULO AUTOMOTOR EN TERCER GRADO DE EBRIEDAD SE LE SANCIONARÁ CON:",
+    "question_en": "ACCORDING TO LAW, WHOEVER DRIVES A MOTOR VEHICLE FOR THE FIRST TIME WHILE HAVING A THIRD DEGREE OF INTOXICATION WILL BE SANCTIONED WITH:",
+    "options_es": {
+      "A": "Cancelación definitiva de su licencia, además de las multas correspondientes.",
+      "B": "Suspensión de licencia por quince días, además de las multas correspondientes.",
+      "C": "Arresto administrativo inconmutable de 36 horas, además de las multas correspondientes."
+    },
+    "options_en": {
+      "A": "Permanent cancellation of your license, in addition to the corresponding fines.",
+      "B": "License suspension for fifteen days, in addition to the corresponding fines.",
+      "C": "Unchangeable administrative arrest of 36 hours, in addition to the corresponding fines."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 4,
+    "question_es": "SI PAGA UNA INFRACCIÓN DENTRO DE LOS PRIMEROS 5 DÍAS HÁBILES USTED TIENE DERECHO:",
+    "question_en": "IF YOU PAY A VIOLATION WITHIN THE FIRST 5 BUSINESS DAYS YOU HAVE THE RIGHT:",
+    "options_es": {
+      "A": "Al 75% de descuento.",
+      "B": "Al 50% de descuento.",
+      "C": "Al 25 % de descuento"
+    },
+    "options_en": {
+      "A": "Of 75% discount.",
+      "B": "Of 50% discount.",
+      "C": "Of 25% discount."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 5,
+    "question_es": "LA LEY DE TRÁNSITO PROHIBE EL USO DE CRISTALES U OTROS ELEMENTOS QUE IMPIDAN TOTALMENTE LA VISIBILIDAD HACIA EL INTERIOR DEL VEHÍCULO:",
+    "question_en": "THE TRAFFIC LAW PROHIBITS THE USE OF GLASS OR OTHER ELEMENTS THAT COMPLETELY PREVENT VISIBILITY TO THE INTERIOR OF THE VEHICLE:",
+    "options_es": {
+      "A": "Cierto.",
+      "B": "Falso.",
+      "C": "Sólo al transporte público."
+    },
+    "options_en": {
+      "A": "Right.",
+      "B": "Wrong.",
+      "C": "Only for public transport."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 6,
+    "question_es": "¿HASTA CUÁNTAS PERSONAS SE PERMITE TRANSPORTAR EN “PICK UP” SEGÚN LA LEY DE LOS SERVICIOS DE VIALIDAD, TRÁNSITO Y TRANSPORTE?",
+    "question_en": "UP TO HOW MANY PEOPLE ARE ALLOWED TO BE TRANSPORTED IN A “PICK UP” ACCORDING TO THE ROAD, TRANSIT AND TRANSPORTATION SERVICES LAW?",
+    "options_es": {
+      "A": "Solamente el número de personas que cuenten con el equipo de protección adecuado.",
+      "B": "Las que vayan sentadas.",
+      "C": "Solamente las especificadas en la tarjeta de circulación."
+    },
+    "options_en": {
+      "A": "Only the number of people who have the appropriate protective equipment.",
+      "B": "Those who are sitting.",
+      "C": "Only those specified in the circulation card."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 7,
+    "question_es": "LA LEY DE LOS SERVICIOS DE VIALIDAD, TRÁNSITO Y TRANSPORTE DEL ESTADO DE JALISCO Y SU REGLAMENTO, TIENEN POR OBJETO:",
+    "question_en": "THE LAW OF ROAD, TRANSIT AND TRANSPORTATION SERVICES OF THE STATE OF JALISCO AND ITS REGULATIONS HAVE THE PURPOSE:",
+    "options_es": {
+      "A": "Expedir licencias para conducir.",
+      "B": "Infraccionar a los malos conductores.",
+      "C": "Regir el tránsito en las vías públicas del Estado de Jalisco, abiertas a la circulación, que no sean de competencia federal."
+    },
+    "options_en": {
+      "A": "Issue driver's licenses.",
+      "B": "Violate bad drivers.",
+      "C": "Govern traffic on public roads in the State of Jalisco, open to circulation, that are not under federal jurisdiction."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 8,
+    "question_es": "SI CONDUCE SU VEHÍCULO A UNA VELOCIDAD DE 71 Km/h Y EL SEÑALAMIENTO LE MARCA 60 Km/h COMO LÍMITE MÁXIMO DE VELOCIDAD, SE HACE ACREEDOR A:",
+    "question_en": "IF YOU DRIVE YOUR VEHICLE AT A SPEED OF 71 Km/h AND THE SIGN MARKS 60 Km/h AS THE MAXIMUM SPEED LIMIT, YOU ARE ELIGIBLE FOR:",
+    "options_es": {
+      "A": "Multa.",
+      "B": "Detención del vehículo.",
+      "C": "Suspensión de la licencia."
+    },
+    "options_en": {
+      "A": "Fine.",
+      "B": "Stopping the vehicle.",
+      "C": "License suspension."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 9,
+    "question_es": "ES INFRACCIÓN A LA LEY DE TRÁNSITO:",
+    "question_en": "IT IS AN INFRINGEMENT OF THE TRANSIT LAW:",
+    "options_es": {
+      "A": "Circular por la extrema derecha.",
+      "B": "Tener el vehículo su parabrisas estrellado de tal manera que dificulte la visibilidad.",
+      "C": "Dar vuelta a la derecha con semáforo en rojo con precaución, previo alto total y otorgando preferencia al peatón."
+    },
+    "options_en": {
+      "A": "Drive on the extreme right.",
+      "B": "Having the vehicle's windshield smashed in such a way that visibility is difficult.",
+      "C": "Turn right with a red light with caution, after stopping completely and giving preference to the pedestrian."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 10,
+    "question_es": "¿CUÁL ES LA DISTANCIA MÁXIMA PERMITIDA PARA CIRCULAR EN REVERSA?:",
+    "question_en": "WHAT IS THE MAXIMUM DISTANCE ALLOWED TO DRIVE IN REVERSE?:",
+    "options_es": {
+      "A": "10 metros.",
+      "B": "25 metros.",
+      "C": "50 metros."
+    },
+    "options_en": {
+      "A": "10 meters.",
+      "B": "25 meters.",
+      "C": "50 meters"
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 11,
+    "question_es": "UN AGENTE VIAL ¿PUEDE INTERRUMPIR LA CIRCULACIÓN DE UN VEHÍCULO SOLO PARA VERIFICAR SI EL CONDUCTOR TRAE CONSIGO LOS DOCUMENTOS NECESARIOS PARA CIRCULAR?:",
+    "question_en": "CAN A ROAD OFFICER INTERRUPT THE CIRCULATION OF A VEHICLE JUST TO VERIFY IF THE DRIVER HAS THE NECESSARY DOCUMENTS FOR TRAVEL?:",
+    "options_es": {
+      "A": "Cierto.",
+      "B": "Sí, cuando porten placas de otro estado.",
+      "C": "Falso."
+    },
+    "options_en": {
+      "A": "True.",
+      "B": "Yes, when they carry plates from another state.",
+      "C": "False."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 12,
+    "question_es": "LOS VEHÍCULOS NO REGISTRADOS, QUE CAREZCAN DE PLACAS, HOLOGRAMA O TARJETA DE CIRCULACIÓN DEBERÁN:",
+    "question_en": "UNREGISTERED VEHICLES, WHICH LACK PLATES, HOLOGRAM OR REGISTRATION CARD, MUST:",
+    "options_es": {
+      "A": "Esperar el canje anual.",
+      "B": "Obtener el permiso correspondiente para circular en tanto concluyen los trámites para la obtención de dicha documentación.",
+      "C": "Transitar con permiso para circular por tiempo indefinido."
+    },
+    "options_en": {
+      "A": "Wait for the annual exchange.",
+      "B": "Obtain the corresponding permit to circulate while the procedures for obtaining said documentation are concluded.",
+      "C": "Travel with permission to circulate for an indefinite period."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 13,
+    "question_es": "¿ES MOTIVO DE MULTA LA FALTA DE LIMPIABRISAS EN SU VEHÍCULO?:",
+    "question_en": "IS THE LACK OF WINDSHIELD WIPER ON YOUR VEHICLE A REASON FOR A FINE?:",
+    "options_es": {
+      "A": "Cierto, porque así lo dispone la ley de tránsito.",
+      "B": "Sólo para los vehículos públicos.",
+      "C": "Sólo en época de lluvias, en caso de emergencia o en vehículos oficiales."
+    },
+    "options_en": {
+      "A": "True, because that is what the traffic law provides.",
+      "B": "Only for public vehicles.",
+      "C": "Only in the rainy season, in case of emergency or in official vehicles."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 14,
+    "question_es": "SI USTED CONDUCE UN VEHÍCULO DE MOTOR EN ESTADO DE EBRIEDAD O BAJO EL INFLUJO DE ESTUPEFACIENTES O PSICOTRÓPICOS, ESTÁ COMETIENDO:",
+    "question_en": "IF YOU DRIVE A MOTOR VEHICLE WHILE DRUNK OR UNDER THE INFLUENCE OF NARCOTIC OR PSYCHOTROPIC DRUGS, YOU ARE COMMITTING:",
+    "options_es": {
+      "A": "Infracción y delito.",
+      "B": "Abuso de autoridad.",
+      "C": "Infracción y falta administrativa."
+    },
+    "options_en": {
+      "A": "Infringement and crime.",
+      "B": "Abuse of authority.",
+      "C": "Infraction and administrative offense."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 15,
+    "question_es": "SE CONSIDERA MOTIVO DE INFRACCIÓN:",
+    "question_en": "IT IS CONSIDERED A REASON FOR INFRINGEMENT:",
+    "options_es": {
+      "A": "Circular con placas ocultas, total o parcialmente.",
+      "B": "Circular con placas de otro estado.",
+      "C": "Circular con los hologramas de años anteriores."
+    },
+    "options_en": {
+      "A": "Circular with hidden plates, totally or partially.",
+      "B": "Circulate with license plates from another state.",
+      "C": "Circulate with holograms from previous years."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 16,
+    "question_es": "EL USAR AUDÍFONOS PARA ESCUCHAR MÚSICA MIENTRAS CONDUCE SE CONSIDERA:",
+    "question_en": "USING HEADPHONES TO LISTEN TO MUSIC WHILE DRIVING IS CONSIDERED:",
+    "options_es": {
+      "A": "Legal para no estresarse.",
+      "B": "Infracción a las normas de vialidad.",
+      "C": "Causa detención del vehículo."
+    },
+    "options_en": {
+      "A": "Legal to not get stressed.",
+      "B": "Violation of road rules.",
+      "C": "To cause vehicle stoppage."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 17,
+    "question_es": "SON LAS 12:00 DE LA NOCHE Y USTED SE ENCUENTRA CIRCULANDO EN SU VEHÍCULO, LLEGA A UN CRUCERO Y LE TOCA LA LUZ ROJA DEL SEMÁFORO, NO HAY NADIE MÁS EN ESE CRUCE Y NO CORRE PELIGRO ALGUNO ¿ESTÁ USTED OBLIGADO A ESPERAR LA LUZ VERDE DEL SEMÁFORO PARA AVANZAR?",
+    "question_en": "IT IS 12:00 AT NIGHT AND YOU ARE DRIVING IN YOUR VEHICLE, YOU ARRIVE AT A CROSSING AND THE TRAFFIC LIGHT TURNS RED, THERE IS NO ONE ELSE AT THAT CROSSING AND YOU ARE NOT IN ANY DANGER. ARE YOU OBLIGED TO WAIT FOR THE GREEN LIGHT OF THE TRAFFIC LIGHT?",
+    "options_es": {
+      "A": "Sí, estoy obligado a respetar el semáforo sin importar la hora del día.",
+      "B": "No, nadie me está observando, así que puedo pasarme la luz roja del semáforo.",
+      "C": "No, la Ley de Vialidad me otorga el beneficio de pasarme las luces rojas después de las 12:00 de la noche."
+    },
+    "options_en": {
+      "A": "Yes, I am obliged to respect the traffic light regardless of the time of day.",
+      "B": "No, no one is watching me, so I can run the red light.",
+      "C": "No, the Highway Law gives me the benefit of running red lights after 12:00 at night."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 18,
+    "question_es": "CUANDO CIRCULA UN VEHÍCULO DE EMERGENCIA EN SERVICIO, LLEVANDO ENCENDIDOS CÓDIGOS Y SIRENA ¿QUÉ SE DEBE HACER?",
+    "question_en": "WHEN AN EMERGENCY VEHICLE IS DRIVING IN SERVICE, WITH IGNITIONS CODES AND SIREN WHAT SHOULD BE DONE?",
+    "options_es": {
+      "A": "Bajar la velocidad.",
+      "B": "Acelerar y pasar primero.",
+      "C": "Permitirle el paso, colocarse en el extremo de la vialidad y hacer alto."
+    },
+    "options_en": {
+      "A": "Slow down.",
+      "B": "Accelerate and pass first.",
+      "C": "Allow him to pass, stand at the end of the road and stop."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 19,
+    "question_es": "SI AL LLEGAR A UN CRUCERO DONDE LA CIRCULACIÓN SEA REGULADA POR UN AGENTE VIAL, LA POSICIÓN DE ÉSTE ES DE FRENTE O ESPALDA A LA ARTERIA POR LA QUE USTED TRANSITA, CON LOS BRAZOS HACIA ABAJO, ¿QUÉ LE INDICA?:",
+    "question_en": "IF YOU ARRIVE ON A CROSSROAD WHERE THE CIRCULATION IS REGULATED BY A ROAD AGENT, THE POSITION OF HIM IS IN FRONT OR BACK TO THE ARTERY THROUGH WHICH YOU TRANSIT, WITH HIS ARMS DOWN, WHAT DOES IT INDICATE TO YOU?:",
+    "options_es": {
+      "A": "Siga.",
+      "B": "Preventiva.",
+      "C": "Alto."
+    },
+    "options_en": {
+      "A": "Go.",
+      "B": "Caution.",
+      "C": "Stop."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 20,
+    "question_es": "PARA CONDUCIR UN VEHÍCULO EN CUALQUIERA DE LAS MODALIDADES DEL TRANSPORTE DE CARGA, CUYA CAPACIDAD DE CARGA NO EXCEDA A LOS TRES MIL QUINIENTOS KILOGRAMOS Y AUTOMÓVILES DE SERVICIO PÚBLICO, ES INDISPENSABLE TENER LICENCIA DE:",
+    "question_en": "TO DRIVE A VEHICLE IN ANY OF THE MODALITIES OF TRANSPORTATION OF CARGO, WHICH LOAD CAPACITY DOES NOT EXCEED THREE THOUSAND FIVE HUNDRED KILOGRAMS AND PUBLIC SERVICE AUTOMOBILES, IT IS ESSENTIAL TO HAVE A LICENSE FOR:",
+    "options_es": {
+      "A": "Automovilista.",
+      "B": "Chofer.",
+      "C": "Conductor de Servicios de Transporte Público."
+    },
+    "options_en": {
+      "A": "Motorist.",
+      "B": "Chauffeur.",
+      "C": "Driver of Public Transportation Services."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 21,
+    "question_es": "¿ES PERMITIDA LA VUELTA A LA IZQUIERDA CON LA LUZ DEL SEMÁFORO EN ROJO?",
+    "question_en": "IS A LEFT TURN ALLOWED ON A RED LIGHT?",
+    "options_es": {
+      "A": "Sí, siempre y cuando se provenga e ingrese a calles de un solo sentido de circulación, previo alto total, respetando la prelación de paso del peatón, sin que exista señalamiento que lo prohíba y que no sea vehículo de servicio colectivo público de pasajeros.",
+      "B": "No, porque la ley y reglamento de tránsito solamente lo permiten a la derecha.",
+      "C": "Sí, siempre y cuando se provenga de una Avenida o Calzada con doble sentido de circulación, se ingrese a una calle de un solo sentido, previo alto total, respetando la prelación de paso del peatón, y que no sea vehículo de servicio colectivo público de pasajeros."
+    },
+    "options_en": {
+      "A": "Yes, as long as you come from and enter one-way streets, after completely stopping, respecting the priority of passage of the pedestrian, without there being signs that prohibit it and that it is not a public collective passenger service vehicle.",
+      "B": "No, because the traffic law and regulations only allow it on the right.",
+      "C": "Yes, as long as you come from an Avenue or Road with two-way traffic, you enter a one-way street, after a complete stop, respecting the priority of passage of the pedestrian, and that it is not a vehicle of public collective passenger service."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 22,
+    "question_es": "LAS PLACAS, EL ENGOMADO Y LA TARJETA DE CIRCULACIÓN SON DOCUMENTOS:",
+    "question_en": "THE PLATES, THE 'ENGOMADO' AND THE CIRCULATION CARD ARE DOCUMENTS:",
+    "options_es": {
+      "A": "Intransferibles que identifican al vehículo.",
+      "B": "Necesarios para efectuar el refrendo.",
+      "C": "Que se requieren para la obtención de la licencia."
+    },
+    "options_en": {
+      "A": "Non-transferable that identify the vehicle.",
+      "B": "Necessary to carry out the endorsement.",
+      "C": "What is required to obtain the license."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 23,
+    "question_es": "CUANDO NOS ENCONTRAMOS UNA PATRULLA ESCOLAR Y NOS INDICA ALTO PARA CEDER EL PASO DE ESCOLARES ¿ESTAMOS OBLIGADOS A HACER ALTO?",
+    "question_en": "WHEN WE ENCOUNTER A SCHOOL PATROL AND IT TELLS US TO STOP TO YIELD THE STEP OF SCHOOLS ARE WE OBLIGED TO STOP?",
+    "options_es": {
+      "A": "Sí estamos obligados.",
+      "B": "No, porque no son Autoridades de Vialidad.",
+      "C": "Sólo cuando los acompaña un agente vial."
+    },
+    "options_en": {
+      "A": "Yes we are obliged.",
+      "B": "No, because they are not Highway Authorities.",
+      "C": "Only when a road agent accompanies them."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 24,
+    "question_es": "¿CUÁLES SON LOS VEHÍCULOS QUE TIENEN PRELACIÓN DE PASO?:",
+    "question_en": "WHAT ARE THE VEHICLES THAT HAVE PASSING PRIORITY?:",
+    "options_es": {
+      "A": "Vehículos de emergencia en servicio con códigos y sirena encendidos.",
+      "B": "Vehículos oficiales de los ayuntamientos y policía federal.",
+      "C": "Vehículos de traslado de valores."
+    },
+    "options_en": {
+      "A": "Emergency vehicles in service with codes and siren on.",
+      "B": "Official vehicles of the municipalities and federal police.",
+      "C": "Value transfer vehicles."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 25,
+    "question_es": "EN CRUCES DE ARTERIAS DE IGUAL IMPORTANCIA CARENTES DE SEÑALAMIENTO DE LA PRELACIÓN DE PASO, ¿QUÉ DEBERÁ USTED HACER SEGÚN EL REGLAMENTO?:",
+    "question_en": "AT CROSSINGS OF ARTERIES OF EQUAL IMPORTANCE WITHOUT SIGNAGE OF THE PASSING PRIORITY, WHAT SHOULD YOU DO ACCORDING TO THE REGULATIONS?:",
+    "options_es": {
+      "A": "Hacer alto total y ceder el paso al de la derecha.",
+      "B": "Seguir avanzando a velocidad constante si la calle es de norte a sur.",
+      "C": "Disminuir la velocidad al acercarme al, crucero sin hacer alto total, para cruzar más rápido."
+    },
+    "options_en": {
+      "A": "Come to a complete stop and give way to the person on the right.",
+      "B": "Continue moving at a constant speed if the street is from north to south.",
+      "C": "Slow down when approaching the crossing, without coming to a complete stop, to cross faster."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 26,
+    "question_es": "CUANDO EL AGENTE VIAL SE ENCUENTRA EN POSICIÓN PREVENTIVA ADELANTANDO LIGERAMENTE LOS BRAZOS Y ABANICANDO LAS MANOS EN UN CRUCERO DE ARTERIA DOBLE, ¿QUÉ INDICA?:",
+    "question_en": "WHEN THE ROAD OFFICE AUTHOR IS IN A PREVENTIVE FORWARD POSITION, PASSING LIGHTLY FANING THE ARMS AND FANING THE HANDS IN A DOUBLE ARTERY CRUISE, WHAT DOES IT INDICATE?:",
+    "options_es": {
+      "A": "Siga.",
+      "B": "Vuelta a la izquierda.",
+      "C": "Preventiva simple."
+    },
+    "options_en": {
+      "A": "Go.",
+      "B": "Turn left.",
+      "C": "One Time Caution."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 27,
+    "question_es": "CUANDO OCURRE UN ACCIDENTE Y SOLO HAY DAÑOS MATERIALES, ¿CUÁL ES EL PROCEDIMIENTO CORRESPONDIENTE SEGÚN EL REGLAMENTO?",
+    "question_en": "WHEN AN ACCIDENT OCCURS AND THERE IS ONLY PROPERTY DAMAGE, WHAT IS THE CORRESPONDING PROCEDURE ACCORDING TO THE REGULATION?",
+    "options_es": {
+      "A": "Esperar la intervención de las autoridades de Vialidad para que testifiquen el Intercambio de documentos con la contra parte.",
+      "B": "Si los conductores cuentan con todos sus documentos en regla, celebran convenio y firman desistimiento no se incautarán los vehículos.",
+      "C": "Esperar la intervención de las autoridades de Vialidad para levantar el inventario del vehículo antes de que se lo lleven al corralón."
+    },
+    "options_en": {
+      "A": "Wait for the intervention of the Highway authorities to witness the Exchange of documents with the counterparty.",
+      "B": "If the drivers have all their documents in order, enter into an agreement and sign a waiver, the vehicles will not be seized.",
+      "C": "Wait for the intervention of the Road Authorities to take the inventory of the vehicle before it is They take him to the corral."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 28,
+    "question_es": "¿BAJO QUÉ CONDICIONES PUEDE ESTACIONARSE EN LUGARES RESERVADOS PARA DISCAPACITADOS?:",
+    "question_en": "UNDER WHAT CONDITIONS CAN YOU PARK IN PLACES RESERVED FOR DISABLED?:",
+    "options_es": {
+      "A": "Si es o transporta a un discapacitado y el vehículo cuenta con el engomado correspondiente.",
+      "B": "Si es el único espacio disponible en el estacionamiento.",
+      "C": "Si se estaciona sólo por unos cuantos minutos."
+    },
+    "options_en": {
+      "A": "If you are or are transporting a disabled person and the vehicle has the corresponding sticker.",
+      "B": "If it is the only space available in the parking lot.",
+      "C": "If you park for only a few minutes."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 29,
+    "question_es": "¿ESTÁ PERMITIDO ESTACIONARSE A MENOS DE 5 METROS DE LAS BOCACALLES?",
+    "question_en": "IS PARKING ALLOWED LESS THAN 5 METERS FROM THE CORNERS?",
+    "options_es": {
+      "A": "No está permitido bajo ninguna circunstancia.",
+      "B": "Sí está permitido.",
+      "C": "Si no está pintado de color amarillo sí se puede estacionar."
+    },
+    "options_en": {
+      "A": "It is not allowed under any circumstances.",
+      "B": "Yes it is allowed.",
+      "C": "If it is not painted yellow, you can park."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 30,
+    "question_es": "SI UN CONDUCTOR ANUNCIA QUE VA A DAR VUELTA A LA IZQUIERDA CON UN SEÑALAMIENTO HUMANO, LA FORMA CORRECTA PARA HACERLO ES:",
+    "question_en": "IF A DRIVER ANNOUNCES THAT HE IS GOING TO TURN LEFT WITH A HUMAN SIGNAL, THE CORRECT WAY TO DO IT IS:",
+    "options_es": {
+      "A": "Brazo horizontal, antebrazo hacia abajo y mano extendida con la palma hacia atrás.",
+      "B": "Brazo, antebrazo y mano extendidos horizontalmente.",
+      "C": "Brazo horizontalmente, antebrazo hacia arriba y mano con los dedos extendidos hacia la derecha."
+    },
+    "options_en": {
+      "A": "Arm horizontal, forearm down and hand extended with palm facing back.",
+      "B": "Arm, forearm and hand extended horizontally.",
+      "C": "Arm horizontally, forearm up and hand with fingers extended to the right."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 31,
+    "question_es": "¿QUÉ PRECAUCIONES DEBE TOMAR AL SALIR DE UN ESTACIONAMIENTO, CENTRO COMERCIAL, COCHERA, GASOLINERA, ETC., SEGÚN EL REGLAMENTO?",
+    "question_en": "WHAT PRECAUTIONS SHOULD YOU TAKE WHEN LEAVING A PARKING LOT, SHOPPING CENTER, GARAGE, GASOLINE STATION, ETC., ACCORDING TO THE REGULATIONS?",
+    "options_es": {
+      "A": "Ceder el paso únicamente a los peatones e incorporarse rápidamente a la calle porque tiene la preferencia de paso.",
+      "B": "Ceder el paso a peatones, y otorgar la prelación de paso a los vehículos en circulación.",
+      "C": "Incorporarse a velocidad regular sin importar que obligue al conductor que se cruza a que frene bruscamente ya que el reglamento le da la preferencia de paso."
+    },
+    "options_en": {
+      "A": "Give way only to pedestrians and quickly merge into the street because you have the right of way.",
+      "B": "Give way to pedestrians, and grant priority of way to vehicles in circulation.",
+      "C": "Merge at a regular speed regardless of whether it forces the passing driver to brake suddenly since the regulations give him the right of way."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 32,
+    "question_es": "SI USTED CIRCULA POR UNA CALLE DE DOBLE SENTIDO Y NECESITA DAR VUELTA A LA IZQUIERDA PARA INGRESAR A OTRA CALLE, (ESTANDO ESO PERMITIDO) ¿QUIÉN TIENE PREFERENCIA DE PASO SI NO HAY SEMÁFORO?",
+    "question_en": "IF YOU ARE DRIVING ON A TWO-WAY STREET AND NEED TO TURN INTO THE LEFT TO ENTER ANOTHER STREET, (WHEN THAT IS ALLOWED) WHO HAS PASSING PREFERENCE IF THERE IS NO TRAFFIC LIGHT?",
+    "options_es": {
+      "A": "Los conductores de la calle que va a cruzar.",
+      "B": "El que siga de frente sobre el que da vuelta a la izquierda.",
+      "C": "Usted que va a girar a la izquierda."
+    },
+    "options_en": {
+      "A": "Drivers of the street you are going to cross.",
+      "B": "The one who continues straight over the one who turns left.",
+      "C": "You are going to turn left."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 33,
+    "question_es": "AL CIRCULAR EN LA VÍA PÚBLICA, UN AGENTE VIAL EN SU PATRULLA ME INDICA QUE ME DETENGA ¿QUIÉN SE DEBE DE BAJAR DEL VEHÍCULO?",
+    "question_en": "WHEN DRIVING ON PUBLIC ROADS, A ROAD OFFICER IN HIS PATROL TELLS ME TO STOP WHO SHOULD GET OFF THE VEHICLE?",
+    "options_es": {
+      "A": "Sólo yo con licencia y tarjeta de circulación.",
+      "B": "Los dos debemos de bajarnos.",
+      "C": "El agente vial y se acercará por el lado del conductor portando casco y gafete de identificación."
+    },
+    "options_en": {
+      "A": "Only me with a license and driving card.",
+      "B": "We both have to get off.",
+      "C": "The road agent will approach from the driver's side wearing a helmet and identification badge."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 34,
+    "question_es": "ESTÁ PROHIBIDO A VEHÍCULOS DIFERENTES A LOS DE EMERGENCIA, EL USO DE TORRETAS, SIRENAS Y DEMÁS ACCESORIOS RESERVADOS A ÉSTOS.",
+    "question_en": "IT IS PROHIBITED FOR VEHICLES OTHER THAN EMERGENCY VEHICLES, THE USE OF TURRETS, SIRENS AND OTHER ACCESSORIES RESERVED FOR THESE.",
+    "options_es": {
+      "A": "Cierto.",
+      "B": "Solo en carreteras federales.",
+      "C": "Falso."
+    },
+    "options_en": {
+      "A": "Correct.",
+      "B": "Only on federal roads.",
+      "C": "False."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 35,
+    "question_es": "¿CUÁL ES LA VELOCIDAD MÁXIMA PERMITIDA PARA CIRCULAR EN VIALIDADES QUE LIMITEN CON UN CENTRO ESCOLAR EN HORARIOS DE ENTRADA O SALIDA?",
+    "question_en": "WHAT IS THE MAXIMUM SPEED ALLOWED TO DRIVE ON ROADS THAT LIMIT WITH A SCHOOL AT ENTRY OR DISMISSAL TIMES?",
+    "options_es": {
+      "A": "50 km/h",
+      "B": "15 km/h",
+      "C": "25 km/h"
+    },
+    "options_en": {
+      "A": "50 km/h",
+      "B": "15 km/h",
+      "C": "25 km/h"
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 36,
+    "question_es": "¿CUÁL ES LA VELOCIDAD MÁXIMA EN LAS ARTERIAS DE LAS CIUDADES EN DONDE NO SE ENCUENTRE SEÑALAMIENTO ALGUNO?",
+    "question_en": "WHAT IS THE MAXIMUM SPEED ON THE ARTERIES OF CITIES WHERE THERE IS NO DID YOU FIND ANY SIGNS?",
+    "options_es": {
+      "A": "40 km/h",
+      "B": "50 km/h",
+      "C": "60 km/h"
+    },
+    "options_en": {
+      "A": "40 km/h",
+      "B": "50 km/h",
+      "C": "60 km/h"
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 37,
+    "question_es": "¿QUÉ ESTÁ INDICANDO EL AGENTE VIAL CUANDO SE ENCUENTRA EN POSICIÓN LATERAL O DE COSTADO CON LOS BRAZOS HACIA ABAJO EN RELACIÓN A LA ARTERIA POR LA QUE TRANSITAMOS?",
+    "question_en": "WHAT IS THE ROAD AGENT INDICATING WHEN HE IS IN A LATERAL OR FRONT POSITION? SIDE WITH ARMS DOWN IN RELATION TO THE ARTERY THROUGH WHICH DO WE TRANSIT?",
+    "options_es": {
+      "A": "Siga.",
+      "B": "Preventiva.",
+      "C": "Alto general."
+    },
+    "options_en": {
+      "A": "Go.",
+      "B": "Careful.",
+      "C": "Stopp in general."
+    },
+    "answer": "A",
+    "image": "question_37.png"
+  },
+  {
+    "id": 38,
+    "question_es": "EN CALLES DE UN SOLO SENTIDO EL VEHÍCULO SE ESTACIONARÁ:",
+    "question_en": "ON ONE-WAY STREETS THE VEHICLE WILL PARK:",
+    "options_es": {
+      "A": "A la derecha, salvo prohibición expresa.",
+      "B": "A la izquierda, en cualquier dirección respecto a la corriente circulatoria.",
+      "C": "A la izquierda en dirección a la corriente circulatoria, salvo prohibición expresa o que se autorice en su caso en ambas aceras en cordón o en batería."
+    },
+    "options_en": {
+      "A": "To the right, unless expressly prohibited.",
+      "B": "To the left, in any direction with respect to the traffic direction.",
+      "C": "To the left in the direction of the traffic flow, unless expressly prohibited or authorized in both sidewalks in curb or battery."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 39,
+    "question_es": "¿DE QUÉ CATEGORÍA SON LAS SEÑALES EN COLOR NEGRO SOBRE FONDO COLOR AMARILLO?",
+    "question_en": "WHAT CATEGORY ARE THE SIGNS IN BLACK COLOR ON A YELLOW BACKGROUND?",
+    "options_es": {
+      "A": "Informativas de Destino",
+      "B": "Preventivas",
+      "C": "Restrictivas"
+    },
+    "options_en": {
+      "A": "Destination Information",
+      "B": "Preventive",
+      "C": "Restrictive"
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 40,
+    "question_es": "¿CUÁNDO PROCEDE EL ASEGURAMIENTO DE LOS VEHÍCULOS Y SU ENVÍO A UN DEPÓSITO?:",
+    "question_en": "WHEN DO VEHICLES HAVE TO BE SECURED AND SEND TO A DEPOSIT?:",
+    "options_es": {
+      "A": "Cuando haya lesionados en un accidente, alguno de los conductores se encuentre en estado de ebriedad, o existan daños a bienes propiedad del Municipio, Estado o Federación.",
+      "B": "Cuando, como resultado de un accidente vial, sólo existan daños materiales en bienes inmuebles propiedad de particulares.",
+      "C": "Solamente cuando no tengan seguro vigente los involucrados en un accidente vial."
+    },
+    "options_en": {
+      "A": "When there are injuries in an accident, one of the drivers is intoxicated, or there is damage to property owned by the Municipality, State or Federation.",
+      "B": "When, as a result of a road accident, there is only material damage to real estate owned by individuals.",
+      "C": "Only when those involved in a road accident do not have current insurance."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 41,
+    "question_es": "LOS VEHÍCULOS QUE TRANSITEN POR LAS VÍAS PÚBLICAS DEL ESTADO, QUE NO SEAN DE TRANSPORTE PÚBLICO, DEBERÁN TENER:",
+    "question_en": "VEHICLES THAT TRANSIT ON THE PUBLIC ROADS OF THE STATE, WHICH ARE NOT OF PUBLIC TRANSPORTATION, YOU MUST HAVE:",
+    "options_es": {
+      "A": "Póliza de seguro con cobertura amplia.",
+      "B": "Póliza de seguro para garantizar daños a terceros en sus bienes y sus personas por una suma asegurada de cuando menos 6000 días de salario mínimo.",
+      "C": "Póliza de seguro que garantice daños a terceros en sus bienes y sus personas por cuando menos 1000 días de salario mínimo."
+    },
+    "options_en": {
+      "A": "Insurance policy with broad coverage.",
+      "B": "Insurance policy to guarantee damages to third parties in their property and persons for an insured sum of at least 6000 days of minimum wage.",
+      "C": "Insurance policy that guarantees damage to third parties in their property and persons for at least 1000 days of minimum wage."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 42,
+    "question_es": "DE ACUERDO A LA PRELACIÓN DE PASO QUE SE CONTEMPLA EN EL REGLAMENTO DE TRÁNSITO, ¿CUÁLES SON LAS MEDIDAS DE SEGURIDAD QUE DEBEN OBSERVAR LOS CONDUCTORES QUE ARRIBAN A UNA GLORIETA?",
+    "question_en": "ACCORDING TO THE PRIORITY OF PASSING CONTAINED IN THE REGULATION OF TRANSIT, WHAT ARE THE SECURITY MEASURES THAT MUST BE OBSERVED BY DRIVERS ARRIVAL AT A ROUNDABOUT?",
+    "options_es": {
+      "A": "Incorporarse a la glorieta a baja velocidad y alerta a los demás conductores.",
+      "B": "Incorporarse a la glorieta circulando a 40 km/h, tocando previamente el claxon para llamar la atención y evitar un accidente.",
+      "C": "Hacer alto total antes de mezclarse con la circulación, dando preferencia a los que ya transitan en ella."
+    },
+    "options_en": {
+      "A": "Enter the roundabout at low speed and alert other drivers",
+      "B": "Enter the roundabout driving at 40 km/h, previously sounding the horn to draw attention and avoid an accident.",
+      "C": "Make a complete stop before mixing with traffic, giving preference to those who are already traveling in it."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 43,
+    "question_es": "SI AL CONDUCIR SU VEHÍCULO USTED LLEGA A UN CRUCE Y LA LUZ ROJA DEL SEMÁFORO ES INTERMITENTE ¿QUÉ DEBE HACER?:",
+    "question_en": "WHEN DRIVING YOUR VEHICLE YOU ARRIVE AT A CROSSING AND THE RED LIGHT OF THE TRAFFIC LIGHT IS FLASHING WHAT SHOULD YOU DO?:",
+    "options_es": {
+      "A": "Acelerar y cruzar rápidamente la calle.",
+      "B": "Hacer alto total y continuar la circulación después de cerciorarse que no se aproximen otros vehículos por la arteria transversal.",
+      "C": "Disminuir la velocidad antes de entrar en la intersección y continuar con las precauciones necesarias."
+    },
+    "options_en": {
+      "A": "Accelerate and quickly cross the street.",
+      "B": "Come to a complete stop and continue traffic after making sure that no other vehicles are approaching on the transversal artery.",
+      "C": "Slow down before entering the intersection and continue using necessary precautions."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 44,
+    "question_es": "EN EL SEMÁFORO, ¿CUÁL ES EL SIGNIFICADO DE LA LUZ ÁMBAR O AMARILLA CONOCIDA TAMBIÉN COMO PREVENTIVA?:",
+    "question_en": "AT THE TRAFFIC LIGHT, WHAT IS THE MEANING OF THE KNOWN AMBER OR YELLOW LIGHT? ALSO KNOWN AS PREVENTIVE?:",
+    "options_es": {
+      "A": "El lapso que existe para despejar la intersección cuando algún vehículo haya entrado a ella o se encuentre muy próximo y no le sea posible detenerse inmediatamente por el riesgo de producirse un impacto por alcance.",
+      "B": "Que usted debe aumentar la velocidad para prevenir un accidente.",
+      "C": "Que usted debe de utilizar el claxon y avanzar."
+    },
+    "options_en": {
+      "A": "The period that exists to clear the intersection when a vehicle has entered it or is very close and cannot stop immediately due to the risk of a rear-end impact.",
+      "B": "That you must increase your speed to prevent an accident.",
+      "C": "That you must use the horn and move forward."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 45,
+    "question_es": "SI EN UN CRUCERO EL SEMÁFORO LE INDICA “SIGA” PERO EL AGENTE VIAL LE INDICA A USTED “ALTO” ¿A QUIÉN DEBE DE OBEDECER?:",
+    "question_en": "IF AT A CROSSROAD THE TRAFFIC LIGHT INDICATES “GO” BUT THE TRAFFIC OFFICER INDICATES “STOP” TO YOU, WHO SHOULD YOU OBEY?:",
+    "options_es": {
+      "A": "Al agente vial.",
+      "B": "Al semáforo.",
+      "C": "A los demás conductores."
+    },
+    "options_en": {
+      "A": "To the road agent.",
+      "B": "At the traffic light.",
+      "C": "To other drivers"
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 46,
+    "question_es": "¿CUÁL ES LA DIFERENCIA ENTRE LAS SEÑALES DE TRÁNSITO RESTRICTIVAS Y LAS PREVENTIVAS?",
+    "question_en": "WHAT IS THE DIFFERENCE BETWEEN RESTRICTIVE TRAFFIC SIGNS AND PREVENTIVES?",
+    "options_es": {
+      "A": "Además de sus colores, las señales restrictivas indican cierto tipo de limitaciones o prohibiciones con relación al tránsito vehicular y al uso de las vías públicas, mientras que las preventivas advierten la existencia o la naturaleza de algún peligro, o el cambio de situación en una vía pública.",
+      "B": "No existe diferencia alguna.",
+      "C": "La diferencia es su tamaño y también que las señales Restrictivas son de color azul con blanco y las preventivas verdes con blanco."
+    },
+    "options_en": {
+      "A": "In addition to their colors, restrictive signs indicate certain types of limitations or prohibitions regarding to vehicular traffic and the use of public roads, while preventive warnings warn of the existence or the nature of some danger, or the change of situation on a public road.",
+      "B": "There is no difference.",
+      "C": "The difference is their size and also that the Restrictive signs are blue with white and the green and white preventives."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 47,
+    "question_es": "SEGÚN EL REGLAMENTO, TIENEN PRELACIÓN DE PASO EN VIALIDADES PRIMARIAS:",
+    "question_en": "ACCORDING TO THE REGULATIONS, THEY HAVE RIGHT-OF-WAY PRIORITY ON PRIMARY ROADS:",
+    "options_es": {
+      "A": "Las calles y calzadas.",
+      "B": "Las calles, caminos y calzadas.",
+      "C": "Avenidas, calzadas, viaductos y pares viales de primera magnitud, sobre todas las demás arterias."
+    },
+    "options_en": {
+      "A": "The streets and roads.",
+      "B": "The streets, roads and driveways.",
+      "C": "Avenues, roads, viaducts and major road pairs, above all other arteries."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 48,
+    "question_es": "¿QUÉ NOS INDICA UN CONDUCTOR CUANDO REALIZA ESTA SEÑAL HUMANA?:",
+    "question_en": "WHAT DOES A DRIVER TELL US WHEN HE MAKES THIS HUMAN SIGNAL?:",
+    "options_es": {
+      "A": "Alto",
+      "B": "Siga",
+      "C": "Vuelta a la izquierda"
+    },
+    "options_en": {
+      "A": "Stopp",
+      "B": "Go",
+      "C": "Turn left"
+    },
+    "answer": "A",
+    "image": "question_48.png"
+  },
+  {
+    "id": 49,
+    "question_es": "LOS AGENTES DE VIALIDAD Y TRÁNSITO HACEN SEÑALES SONORAS CON SU SILBATO, ¿QUÉ SIGNIFICAN DOS SILBATAZOS CORTOS?:",
+    "question_en": "ROAD AND TRANSIT AGENTS MAKE SOUND SIGNALS WITH THEIR WHISTLE, WHAT DO TWO SHORT WHISTLES MEAN?:",
+    "options_es": {
+      "A": "Siga.",
+      "B": "Precaución.",
+      "C": "Acelerar."
+    },
+    "options_en": {
+      "A": "Go.",
+      "B": "Caution.",
+      "C": "Accelerate."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 50,
+    "question_es": "CUANDO LAS GUARNICIONES U ORILLAS DE LA ACERA SE ENCUENTRAN PINTADAS DE COLOR AMARILLO, ¿QUÉ INDICAN?:",
+    "question_en": "WHEN THE EDGES OF THE SIDEWALK ARE PAINTED IN COLOR YELLOW, WHAT DO THEY INDICATE?:",
+    "options_es": {
+      "A": "Que el lugar está reservado.",
+      "B": "Exclusivo para vehículos oficiales.",
+      "C": "Que el estacionamiento en ese lugar está prohibido."
+    },
+    "options_en": {
+      "A": "That the place is reserved.",
+      "B": "Exclusive for official vehicles.",
+      "C": "That parking in that place is prohibited."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 51,
+    "question_es": "¿QUÉ INDICAN DOS LÍNEAS CONTINUAS AL CENTRO DE UNA VÍA DE CIRCULACIÓN?:",
+    "question_en": "WHAT DO TWO CONTINUOUS LINES INDICATE TO THE CENTER OF A CIRCULATION ROAD?:",
+    "options_es": {
+      "A": "Permite rebasar con precaución.",
+      "B": "Zona peatonal.",
+      "C": "Que por cada sentido de circulación hay más de un carril y se prohíbe rebasar."
+    },
+    "options_en": {
+      "A": "Allows passing with caution.",
+      "B": "Pedestrian zone.",
+      "C": "That for each direction of traffic there is more than one lane and passing is prohibited."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 52,
+    "question_es": "¿QUÉ NOS INDICA ESTA SEÑAL?:",
+    "question_en": "WHAT DOES THIS SIGN TELL US?:",
+    "options_es": {
+      "A": "Puente.",
+      "B": "Estrechamiento asimétrico.",
+      "C": "Incorporación al tránsito."
+    },
+    "options_en": {
+      "A": "Bridge.",
+      "B": "Asymmetrical narrowing.",
+      "C": "Incorporation into traffic."
+    },
+    "answer": "B",
+    "image": "question_52.png"
+  },
+  {
+    "id": 53,
+    "question_es": "¿QUÉ NOS INDICA ESTA SEÑAL?:",
+    "question_en": "WHAT DOES THIS SIGN TELL US?:",
+    "options_es": {
+      "A": "Prohibido circular maquinaria agrícola",
+      "B": "Se autoriza circular con tractor",
+      "C": "Puede circular a baja velocidad"
+    },
+    "options_en": {
+      "A": "Circulation of agricultural machinery is prohibited",
+      "B": "Traveling with a tractor is authorized",
+      "C": "Can travel at low speed"
+    },
+    "answer": "A",
+    "image": "question_53.png"
+  },
+  {
+    "id": 54,
+    "question_es": "¿QUÉ NOS INDICA ESTA SEÑAL?:",
+    "question_en": "WHAT DOES THIS SIGN TELL US?:",
+    "options_es": {
+      "A": "Vuelta continua",
+      "B": "Curva",
+      "C": "Curva inversa"
+    },
+    "options_en": {
+      "A": "Continuous return",
+      "B": "Curve",
+      "C": "Reverse curve"
+    },
+    "answer": "B",
+    "image": "question_54.png"
+  },
+  {
+    "id": 55,
+    "question_es": "CUANDO USTED LLEGA A UN CRUCERO Y SE ENCUENTRA CON UNA SEÑAL DE “ALTO” MARCADA EN EL PAVIMENTO, DEBERÁ DETENER SU VEHÍCULO:",
+    "question_en": "WHEN YOU ARRIVE AT A CROSSROAD AND ENCOUNTER A “STOP” SIGN MARKED ON THE PAVEMENT, YOU SHOULD STOP YOUR VEHICLE:",
+    "options_es": {
+      "A": "Sobre la señal de “alto”.",
+      "B": "Antes de la línea blanca marcada para “alto”.",
+      "C": "En un lugar cerca de la intersección siempre que haga alto total."
+    },
+    "options_en": {
+      "A": "At the “stop” sign.",
+      "B": "Before the white line marked for “stop.“",
+      "C": "In a place near the intersection whenever you come to a complete stop."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 56,
+    "question_es": "¿QUÉ INDICAN UNA LÍNEA CONTINUA Y OTRA DISCONTINUA JUNTAS AL CENTRO DE UNA ARTERIA DE CIRCULACIÓN?:",
+    "question_en": "WHAT DO A CONTINUOUS LINE AND ANOTHER DISCONTINUOUS LINE INDICATE TOGETHER AT THE CENTER OF A CIRCULATION ARTERY?:",
+    "options_es": {
+      "A": "A quien circula por la línea continua se le prohíbe rebasar y a quien circula por la línea discontinua se le permite rebasar.",
+      "B": "Indica a los conductores el lugar donde deben estacionarse.",
+      "C": "Son áreas neutrales."
+    },
+    "options_en": {
+      "A": "Those who travel on the solid line are prohibited from passing and those who travel on the dashed line are allowed to pass.",
+      "B": "Tell drivers where to park.",
+      "C": "They are neutral areas."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 57,
+    "question_es": "¿QUÉ NOS INDICA ESTA SEÑAL?:",
+    "question_en": "WHAT DOES THIS SIGN TELL US?:",
+    "options_es": {
+      "A": "Peso restringido",
+      "B": "Altura libre restringida",
+      "C": "Estrechamiento simétrico"
+    },
+    "options_en": {
+      "A": "Restricted weight",
+      "B": "Restricted headroom",
+      "C": "Symmetrical narrowing"
+    },
+    "answer": "B",
+    "image": "question_57.png"
+  },
+  {
+    "id": 58,
+    "question_es": "¿QUÉ NOS INDICA ESTA SEÑAL?:",
+    "question_en": "WHAT DOES THIS SIGN TELL US?:",
+    "options_es": {
+      "A": "Vuelta continua a la derecha",
+      "B": "Codo inverso",
+      "C": "Entronque lateral derecho"
+    },
+    "options_en": {
+      "A": "Continuous turn to the right",
+      "B": "Reverse elbow",
+      "C": "Right lateral junction"
+    },
+    "answer": "A",
+    "image": "question_58.png"
+  },
+  {
+    "id": 59,
+    "question_es": "¿QUÉ NOS INDICA ESTA SEÑAL?:",
+    "question_en": "WHAT DOES THIS SIGN TELL US?:",
+    "options_es": {
+      "A": "Desviación",
+      "B": "Puente angosto",
+      "C": "Circulación al centro"
+    },
+    "options_en": {
+      "A": "Deviation",
+      "B": "Narrow bridge",
+      "C": "Circulation to the center"
+    },
+    "answer": "B",
+    "image": "question_59.png"
+  },
+  {
+    "id": 60,
+    "question_es": "¿QUÉ NOS INDICAN LAS LÍNEAS CONTINUAS A LA ORILLA DEL CAMINO?:",
+    "question_en": "WHAT DO THE CONTINUOUS LINES ON THE EDGE OF THE ROAD TELL US?:",
+    "options_es": {
+      "A": "Delimitan el espacio para el cruce de peatones.",
+      "B": "Sirven para separar carriles.",
+      "C": "Delimitan el espacio del acotamiento para circular con seguridad."
+    },
+    "options_en": {
+      "A": "They delimit the space for pedestrian crossing.",
+      "B": "They serve to separate lanes.",
+      "C": "They delimit the space of the shoulder to circulate safely."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 61,
+    "question_es": "¿CUÁL DISPOSITIVO MECANICO TIENE LA FUNCIÓN DE ENVIAR CARGA A LA BATERIA?",
+    "question_en": "WHAT MECHANICAL DEVICE HAS THE FUNCTION OF SENDING CHARGE TO THE BATTERY?",
+    "options_es": {
+      "A": "El alternador.",
+      "B": "Los faros delanteros.",
+      "C": "La bobina."
+    },
+    "options_en": {
+      "A": "The alternator.",
+      "B": "The headlights.",
+      "C": "The coil."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 62,
+    "question_es": "¿QUÉ CAUSA PUEDE OCASIONAR QUE SU MOTOR SUFRA SOBRECALENTAMIENTO?:",
+    "question_en": "WHAT CAN CAUSE YOUR ENGINE TO OVERHEAT?:",
+    "options_es": {
+      "A": "Falta de agua y banda floja.",
+      "B": "Odómetro en mal estado.",
+      "C": "Falta de aceite en el diferencial."
+    },
+    "options_en": {
+      "A": "Lack of water and loose band.",
+      "B": "Odometer in poor condition.",
+      "C": "Lack of oil in the differential."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 63,
+    "question_es": "¿QUÉ INDICA ESTA SEÑAL?:",
+    "question_en": "WHAT DOES THIS SIGN INDICATE?:",
+    "options_es": {
+      "A": "Prohibido estacionarse",
+      "B": "Zona de estacionamiento",
+      "C": "Prohibido seguir de frente"
+    },
+    "options_en": {
+      "A": "Parking prohibited",
+      "B": "Parking area",
+      "C": "Forbidden to continue straight ahead"
+    },
+    "answer": "A",
+    "image": "question_63.png"
+  },
+  {
+    "id": 64,
+    "question_es": "¿QUÉ INDICA ESTA SEÑAL?:",
+    "question_en": "WHAT DOES THIS SIGN INDICATE?:",
+    "options_es": {
+      "A": "Estrechamiento asimétrico",
+      "B": "Circulación al centro",
+      "C": "Anchura restringida"
+    },
+    "options_en": {
+      "A": "Asymmetrical narrowing",
+      "B": "Circulation to the center",
+      "C": "Restricted width"
+    },
+    "answer": "C",
+    "image": "question_64.png"
+  },
+  {
+    "id": 65,
+    "question_es": "¿CUÁLES SON LAS HERRAMIENTAS BÁSICAS QUE DEBE TRAER EN SU VEHÍCULO?",
+    "question_en": "WHAT ARE THE BASIC TOOLS YOU SHOULD BRING IN YOUR VEHICLE?",
+    "options_es": {
+      "A": "Tabla, Martillo, Clavos, Pijas, Lijas, Navaja, Pegamento líquido.",
+      "B": "Trapos, Focos, Bandas, Mangueras, Cinta aislante, Bobina y Liquido para frenos",
+      "C": "Cables para pasar corriente, Lámpara, Gato, Llave de cruz, Pinzas, Franela, Desarmadores de cruz y planos.Manómetro para llantas"
+    },
+    "options_en": {
+      "A": "Board, Hammer, Nails, Nails, Sandpaper, Knife, Liquid glue.",
+      "B": "Rags, Lights, Bands, Hoses, Insulating tape, Coil and Brake fluid",
+      "C": "Cables to pass current, Lamp, Jack, Cross wrench, Tweezers, Flannel, Cross and flat screwdrivers. Tire pressure gauge"
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 66,
+    "question_es": "¿QUÉ INDICA ESTA SEÑAL?:",
+    "question_en": "WHAT DOES THIS SIGN INDICATE?:",
+    "options_es": {
+      "A": "No parar",
+      "B": "Cruce de ferrocarril",
+      "C": "Cruce de caminos"
+    },
+    "options_en": {
+      "A": "Don't stopp",
+      "B": "Railroad Crossing",
+      "C": "Crossroad"
+    },
+    "answer": "A",
+    "image": "question_66.png"
+  },
+  {
+    "id": 67,
+    "question_es": "¿QUÉ INDICA ESTA SEÑAL?:",
+    "question_en": "WHAT DOES THIS SIGN INDICATE?:",
+    "options_es": {
+      "A": "Cruce de ferrocarril.",
+      "B": "Cruce de caminos.",
+      "C": "No parar."
+    },
+    "options_en": {
+      "A": "Railroad Crossing.",
+      "B": "Crossroad.",
+      "C": "Con't stopp."
+    },
+    "answer": "B",
+    "image": "question_67.png"
+  },
+  {
+    "id": 68,
+    "question_es": "¿CÓMO FUNCIONA EL FRENO DE MANO EN UN VEHÍCULO DE CARGA LIVIANA?:",
+    "question_en": "HOW DOES THE HAND BRAKE WORK ON A LIGHT LOAD VEHICLE?:",
+    "options_es": {
+      "A": "Por medio de aire.",
+      "B": "De manera mecánica.",
+      "C": "De manera hidráulica."
+    },
+    "options_en": {
+      "A": "Through air.",
+      "B": "In a mechanical way.",
+      "C": "Hydraulically."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 69,
+    "question_es": "¿QUÉ INDICA ESTA SEÑAL?:",
+    "question_en": "WHAT DOES THIS SIGN INDICATE?:",
+    "options_es": {
+      "A": "Glorieta.",
+      "B": "Prohibida la vuelta.",
+      "C": "Prohibido el retorno."
+    },
+    "options_en": {
+      "A": "Roundabout.",
+      "B": "Direction prohibited.",
+      "C": "Return prohibited."
+    },
+    "answer": "C",
+    "image": "question_69.png"
+  },
+  {
+    "id": 70,
+    "question_es": "¿QUÉ INDICA ESTA SEÑAL?:",
+    "question_en": "WHAT DOES THIS SIGN INDICATE?:",
+    "options_es": {
+      "A": "Le ceden a usted el paso.",
+      "B": "Usted debe ceder el paso.",
+      "C": "Los dos tienen el paso."
+    },
+    "options_en": {
+      "A": "They give way to you.",
+      "B": "You must give way.",
+      "C": "Both must give way."
+    },
+    "answer": "B",
+    "image": "question_70.png"
+  },
+  {
+    "id": 71,
+    "question_es": "¿QUÉ INDICA ESTA SEÑAL?:",
+    "question_en": "WHAT DOES THIS SIGN INDICATE?:",
+    "options_es": {
+      "A": "Salida.",
+      "B": "Entronque lateral derecho.",
+      "C": "Incorporación de tránsito."
+    },
+    "options_en": {
+      "A": "Exit.",
+      "B": "Right lateral junction.",
+      "C": "Incorporation of traffic."
+    },
+    "answer": "A",
+    "image": "question_71.png"
+  },
+  {
+    "id": 72,
+    "question_es": "¿QUÉ INDICA ESTA SEÑAL?:",
+    "question_en": "WHAT DOES THIS SIGN INDICATE?:",
+    "options_es": {
+      "A": "Un solo carril.",
+      "B": "Circular al centro.",
+      "C": "Anchura libre."
+    },
+    "options_en": {
+      "A": "Single lane.",
+      "B": "Circular to the center.",
+      "C": "Free width."
+    },
+    "answer": "C",
+    "image": "question_72.png"
+  },
+  {
+    "id": 73,
+    "question_es": "¿QUÉ MEDIDAS DE SEGURIDAD DEBE TOMAR SI SU VEHÍCULO SUFRE ALGUNA FALLA MECÁNICA DURANTE SU RECORRIDO?",
+    "question_en": "WHAT SAFETY MEASURES SHOULD YOU TAKE IF YOUR VEHICLE SUFFERS A MECHANICAL FAILURE? DURING YOUR TOUR?",
+    "options_es": {
+      "A": "Encender luces de emergencia, buscar cuál es la falla y repararla rápidamente en el lugar.",
+      "B": "Encender luces de emergencia, mover el vehículo a la extrema derecha de manera que no obstruya la circulación y colocar las señales preventivas correspondientes.",
+      "C": "Encender luces de emergencia y esperar en el lugar a que llegue la ayuda del mecánico."
+    },
+    "options_en": {
+      "A": "Turn on emergency lights, find out what the fault is and repair it quickly on the spot.",
+      "B": "Turn on emergency lights, move the vehicle to the far right so that it does not obstruct traffic and place the corresponding preventive signs.",
+      "C": "Turn on emergency lights and wait at the scene for help from the mechanic to arrive."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 74,
+    "question_es": "LOS ESPEJOS RETROVISORES DEBEN OBSERVARSE CADA:",
+    "question_en": "THE REAR VIEW MIRRORS SHOULD BE CHECKED EVERY:",
+    "options_es": {
+      "A": "1 a 2 minutos.",
+      "B": "2 a 5 segundos.",
+      "C": "30 a 40 segundos."
+    },
+    "options_en": {
+      "A": "1 to 2 minutes.",
+      "B": "2 to 5 seconds.",
+      "C": "30 to 40 seconds."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 75,
+    "question_es": "ANTES DE INICIAR LA CONDUCCIÓN DE SU VEHÍCULO ¿QUE PUNTOS BÁSICOS DE SEGURIDAD ES CONVENIENTE REVISAR?",
+    "question_en": "BEFORE YOU START DRIVING YOUR VEHICLE, WHAT BASIC SAFETY POINTS IS IT CONVENIENT TO REVIEW?",
+    "options_es": {
+      "A": "Llantas, luces, tarjeta de circulación y licencia.",
+      "B": "Amortiguadores, extinguidor y refacción.",
+      "C": "Aceite, agua, llantas, luces, espejos y combustible."
+    },
+    "options_en": {
+      "A": "Oil, water, tires, lights, mirrors and fuel.",
+      "B": "Shock absorbers, extinguisher and spare parts.",
+      "C": "Oil, water, tires, lights, mirrors and fuel."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 76,
+    "question_es": "CUANDO UN VEHÍCULO LO ESTÁ REBASANDO, ¿QUÉ DEBE HACER?:",
+    "question_en": "WHEN A VEHICLE IS PASSING YOU, WHAT SHOULD YOU DO?:",
+    "options_es": {
+      "A": "Aumentar la velocidad.",
+      "B": "Disminuir la velocidad.",
+      "C": "Activar intermitentes."
+    },
+    "options_en": {
+      "A": "Increase speed.",
+      "B": "Slow down.",
+      "C": "Activate turn signals."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 77,
+    "question_es": "SI AL CONDUCIR SU VEHÍCULO UNA DE LAS LLANTAS REVIENTA, INMEDIATAMENTE USTED DEBE DE:",
+    "question_en": "WHEN DRIVING YOUR VEHICLE ONE OF THE TIRES BURST, YOU SHOULD IMMEDIATELY:",
+    "options_es": {
+      "A": "Aplicar el pedal de los frenos para reducir la velocidad.",
+      "B": "Sujetar con fuerza el volante, quitar el pie del acelerador y dejar que el vehículo vaya perdiendo velocidad antes que lo dirija al borde derecho del camino.",
+      "C": "Rápidamente dirigir el vehículo al lado derecho del camino."
+    },
+    "options_en": {
+      "A": "Apply the brake pedal to reduce speed.",
+      "B": "Hold the steering wheel firmly, take your foot off the accelerator and let the vehicle lose speed before you direct it to the right edge of the road.",
+      "C": "Quickly steer the vehicle to the right side of the road."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 78,
+    "question_es": "EL CHOQUE MÁS PELIGROSO EN UN ACCIDENTE, CONSIDERANDO VELOCIDADES SIMILARES ES:",
+    "question_en": "THE MOST DANGEROUS CRASH IN AN ACCIDENT, CONSIDERING SIMILAR SPEEDS IS:",
+    "options_es": {
+      "A": "El de costado.",
+      "B": "Por alcance.",
+      "C": "El de frente."
+    },
+    "options_en": {
+      "A": "The one on the side.",
+      "B": "By reach.",
+      "C": "The one in front."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 79,
+    "question_es": "¿QUÉ DEBE HACER SI AL CONDUCIR SE LEVANTA LA TAPA DEL COFRE DE SU VEHÍCULO?:",
+    "question_en": "WHAT SHOULD YOU DO IF THE HOOD LID OF YOUR VEHICLE IS LIFT WHEN DRIVING?:",
+    "options_es": {
+      "A": "Frenar rápidamente.",
+      "B": "Dirigirse directamente a la derecha.",
+      "C": "Sacar la cabeza por la ventanilla, bajar la velocidad y orillarse a la derecha."
+    },
+    "options_en": {
+      "A": "Brake quickly.",
+      "B": "Head directly to the right.",
+      "C": "Stick your head out the window, slow down and turn to the right."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 80,
+    "question_es": "¿CUÁNTOS SEGUNDOS DE SEGURIDAD SE DEBE DE CONSERVAR CON RESPECTO AL VEHÍCULO DE ADELANTE AL IR EN CIRCULACÍON?:",
+    "question_en": "HOW MANY SECONDS OF SAFETY SHOULD BE CONSERVED WITH RESPECT TO THE VEHICLE IN FRONT WHEN DRIVING?:",
+    "options_es": {
+      "A": "1 segundo.",
+      "B": "3 segundos.",
+      "C": "5 segundos."
+    },
+    "options_en": {
+      "A": "1 second.",
+      "B": "3 seconds.",
+      "C": "5 seconds."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 81,
+    "question_es": "¿QUÉ PRECAUCIONES DEBE USTED TOMAR PARA NO INVADIR LA ZONA PEATONAL?",
+    "question_en": "WHAT PRECAUTIONS SHOULD YOU TAKE TO NOT INVADE THE PEDESTRIAN AREA?",
+    "options_es": {
+      "A": "Acelerar para cruzar rápidamente la zona.",
+      "B": "Disminuir la velocidad si el semáforo cambió a preventiva y frenar antes de la línea blanca.",
+      "C": "Frenar después de haber pasado la zona peatonal."
+    },
+    "options_en": {
+      "A": "Accelerate to quickly cross the area.",
+      "B": "Reduce speed if the traffic light changes to preventive and brake before the white line.",
+      "C": "Brake after having passed the pedestrian zone."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 82,
+    "question_es": "CUANDO CIRCULAMOS POR UNA ZONA DONDE HAY NEBLINA CON VISIBILIDAD NO MAYOR A 5 METROS, SE RECOMIENDA POR SEGURIDAD:",
+    "question_en": "WHEN WE DRIVE THROUGH AN AREA WHERE THERE IS FOG WITH VISIBILITY NO GREATER THAN 5 METERS, IT IS RECOMMENDED FOR SAFETY:",
+    "options_es": {
+      "A": "Buscar un área segura fuera de la vía donde estacionar nuestro vehículo con las luces apagadas y suspender la marcha hasta la visibilidad mejore.",
+      "B": "Tocar el claxon todo el tiempo para indicar nuestra precencia.",
+      "C": "Encender los faros, las luces intermitentes, dismunir la velocidad y estar alerta."
+    },
+    "options_en": {
+      "A": "Find a safe area off the road where you can park your vehicle with the lights off and suspend driving until visibility improves.",
+      "B": "Honk the horn all the time to indicate our presence.",
+      "C": "Turn on your headlights, flashing lights, slow down and be alert."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 83,
+    "question_es": "ES FRECUENTE AL CIRCULAR EN LAS CALLES, ENCONTRARSE ALGÚN CONDUCTOR QUE NOS SIGUE DEMASIADO CERCA, PRESIONÁNDONOS YA SEA CON LUCES O CLAXON. ¿CUÁL DEBE DE SER NUESTRA ACTITUD ANTE ESTA SITUACIÓN?",
+    "question_en": "IT IS FREQUENT WHEN DRIVING ON THE STREETS, TO ENCOUNTER SOME DRIVER WHO IT'S STILL TOO CLOSE, PRESSING US WITH EITHER LIGHTS OR HORN. WHICH SHOULD BE OUR ATTITUDE IN THIS SITUATION?",
+    "options_es": {
+      "A": "Acelerar para evitar que pase.",
+      "B": "Cambiar cuidadosamente de carril, previo encendido de las direccionales correspondientes.",
+      "C": "Continuar manejando por mi carril y dejar que el otro conductor me rebase."
+    },
+    "options_en": {
+      "A": "Accelerate to avoid it passing.",
+      "B": "Carefully change lanes, after turning on the corresponding turn signals.",
+      "C": "Continue driving in my lane and let the other driver pass me."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 84,
+    "question_es": "¿QUÉ DEBEMOS HACER COMO MEDIDA DE SEGURIDAD AL APROXIMARNOS A UN CRUCERO EN EL QUE LAS VÍAS SON DE IGUAL IMPORTANCIA Y NO EXISTE SEMÁFORO NI SEÑAL DE ALTO?",
+    "question_en": "WHAT SHOULD WE DO AS A SAFETY MEASURE WHEN APPROACHING A CROSSROAD IN THE ONE THAT THE ROADS ARE OF EQUAL IMPORTANCE AND THERE IS NO TRAFFIC LIGHT OR STOP SIGN?",
+    "options_es": {
+      "A": "Disminuir la velocidad, quitar el pie del acelerador, posarlo suavemente en el freno, detenerse, ver hacia los lados y avanzar con cuidado.",
+      "B": "Observar hacia los lados y continuar la marcha a la misma velocidad.",
+      "C": "Acelerar para que me cedan el paso ya que llegué primero."
+    },
+    "options_en": {
+      "A": "Slow down, take your foot off the accelerator, gently press it on the brake, stop, look to the sides and move forward carefully.",
+      "B": "Look to the sides and continue driving at the same speed.",
+      "C": "Speed up so they give way to me since I arrived first."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 85,
+    "question_es": "¿CUÁL DE LOS SIGUIENTES TIPOS DE ACCIDENTES VIALES ES EL MÁS LETAL?",
+    "question_en": "WHICH OF THE FOLLOWING TYPES OF ROAD ACCIDENTS IS THE MOST DEADLY?",
+    "options_es": {
+      "A": "Choque en ángulo recto.",
+      "B": "Cuando se choca por alcance.",
+      "C": "Salirse de la carretera al acotamiento a poca velocidad."
+    },
+    "options_en": {
+      "A": "Right angle collision.",
+      "B": "When there is a rear-end crash.",
+      "C": "Leaving the road onto the shoulder at low speed."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 86,
+    "question_es": "ALGUNOS EXPERTOS EN LA SEGURIDAD VIAL CLASIFICAN VARIOS TIPOS DE CONDUCTORES SEGÚN SU ACTITUD PELIGROSA AL CONDUCIR, LOS MÁS COMUNES SON:",
+    "question_en": "SOME ROAD SAFETY EXPERTS CLASSIFY VARIOUS TYPES OF DRIVERS ACCORDING TO THEIR DANGEROUS ATTITUDE WHEN DRIVING, THE MOST COMMON ARE:",
+    "options_es": {
+      "A": "Alegres, simpáticos y amables.",
+      "B": "Tranquilos y descuidados.",
+      "C": "Agresivos, Ofensivos, Defensivos."
+    },
+    "options_en": {
+      "A": "Happy, friendly and kind.",
+      "B": "Quiet and careless.",
+      "C": "Aggressive, Offensive, Defensive."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 87,
+    "question_es": "CUANDO ESTAMOS CANSADOS Y CONDUCIMOS UN VEHÍCULO, SE RECOMIENDA POR SEGURIDAD:",
+    "question_en": "WHEN WE ARE TIRED AND DRIVE A VEHICLE, IT IS RECOMMENDED BY SECURITY:",
+    "options_es": {
+      "A": "Tomar dos tazas de café bien cargado sin azúcar.",
+      "B": "Disminuir la velocidad, bajar un poco el cristal del lado del conductor de tal forma que permita entrada de aire y encender el radio a alto volumen.",
+      "C": "Detenernos a descansar durante al menos 20 minutos y hacer algunos ejercicios físicos antes de continuar nuestro viaje."
+    },
+    "options_en": {
+      "A": "Drink two cups of strong coffee without sugar.",
+      "B": "Slow down, lower the driver's side window a little so that air can enter, and turn on the radio at high volume.",
+      "C": "Stop to rest for at least 20 minutes and do some physical exercises before continuing our trip."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 88,
+    "question_es": "¿CUÁLES SON LAS CONDICIONES POTENCIALMENTE ADVERSAS EN LA CONDUCCIÓN?",
+    "question_en": "WHAT ARE THE POTENTIALLY ADVERSE DRIVING CONDITIONS?",
+    "options_es": {
+      "A": "El tiempo, el tráfico, el vehículo, el camino y la iluminación.",
+      "B": "Conducir con precaución, Respetar las zonas peatonales, conducir en sus cinco sentidos.",
+      "C": "Un conductor responsable, un peatón precavido y un pasajero atento."
+    },
+    "options_en": {
+      "A": "The weather, traffic, vehicle, road and lighting.",
+      "B": "Drive with caution, Respect pedestrian zones, drive in your five senses.",
+      "C": "A responsible driver, a cautious pedestrian and an attentive passenger."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 89,
+    "question_es": "¿CUÁL ES LA FORMA MÁS SEGURA PARA TOMAR UNA CURVA?:",
+    "question_en": "WHAT IS THE SAFE WAY TO TAKE A CURVE?:",
+    "options_es": {
+      "A": "Antes de entrar, disminuir la velocidad y acelerar paulatinamente dentro de la curva.",
+      "B": "Disminuir la velocidad dentro de la curva.",
+      "C": "Tomar con suavidad el volante y continuar con la velocidad normal."
+    },
+    "options_en": {
+      "A": "Before entering, slow down and gradually accelerate into the curve.",
+      "B": "Reduce speed inside the curve.",
+      "C": "Gently take the steering wheel and continue at normal speed."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 90,
+    "question_es": "¿QUÉ DEBE USTED HACER SI SE EMPIEZA A INCENDIAR SU VEHÍCULO?:",
+    "question_en": "WHAT SHOULD YOU DO IF YOUR VEHICLE STARTS TO GAIN FIRE?:",
+    "options_es": {
+      "A": "Llamar a los bomberos y pedir auxilio a los transeúntes.",
+      "B": "Abrir las puertas y echarle agua para apagarlo.",
+      "C": "Apagar el fuego con el extinguidor de incendios de su auto."
+    },
+    "options_en": {
+      "A": "Call the fire department and ask passersby for help.",
+      "B": "Open the doors and pour water on it to turn it off.",
+      "C": "Put out the fire with your car's fire extinguisher."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 91,
+    "question_es": "¿CÓMO DEBEMOS PROCEDER POR SEGURIDAD SI EL PISO POR DONDE VAMOS TRANSITANDO ESTÁ MOJADO?",
+    "question_en": "HOW SHOULD WE PROCEED FOR SAFETY IF THE ROAD WHERE WE ARE TRAVELING IS IT WET?",
+    "options_es": {
+      "A": "Debemos disminuir la velocidad de circulación y darle mayor distancia al vehículo que nos antecede.",
+      "B": "Podemos mantener nuestra velocidad normal si están en buen estado los frenos y las llantas.",
+      "C": "Debemos disminuir la velocidad solamente en las inmediaciones de los cruceros."
+    },
+    "options_en": {
+      "A": "We must reduce the speed and give greater distance to the vehicle in front of us.",
+      "B": "We can maintain our normal speed if the brakes and tires are in good condition.",
+      "C": "We should slow down only in the vicinity of crossroads."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 92,
+    "question_es": "HAY PERSONAS QUE CONDUCEN SUS VEHÍCULOS EN FORMA INADECUADA Y PELIGROSA, ¿QUÉ DEBE USTED HACER SI EN SU CAMINO SE ENCUENTRA CON ALGUNO DE ELLOS?",
+    "question_en": "THERE ARE PEOPLE WHO DRIVE THEIR VEHICLES IN AN INADEQUATE AND DANGEROUS MANNER, WHAT WHAT SHOULD YOU DO IF YOU ENCOUNTER ANY OF THEM ON YOUR WAY?",
+    "options_es": {
+      "A": "Guardar la calma, ceder un poco, alejarse y pensar que su seguridad es lo más importante.",
+      "B": "Darles alcance para indicarles los errores que van cometiendo al conducir.",
+      "C": "Ubicarse en el mismo carril a unos 7 metros adelante o atrás y cometer los mismos errores para que el otro conductor aprenda."
+    },
+    "options_en": {
+      "A": "Stay calm, give in a little, walk away and think that your safety is the most important thing.",
+      "B": "Give them access to point out the mistakes they are making while driving.",
+      "C": "Stay in the same lane about 7 meters in front or behind and make the same mistakes so that the other driver learn."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 93,
+    "question_es": "¿QUÉ DEBE HACER SI AL LLEGAR A UN CRUCERO EL SEMÁFORO LE MARCA LA LUZ ÁMBAR?",
+    "question_en": "WHAT SHOULD YOU DO IF WHEN YOU ARRIVE AT A CROSSROAD THE TRAFFIC LIGHT SHOWS YOU AN AMBER LIGHT?",
+    "options_es": {
+      "A": "Frenar rápidamente para no pasarse el alto.",
+      "B": "Disminuir la velocidad frenando moderadamente para evitar el accidente con el vehículo que le sigue.",
+      "C": "Sonar tres veces la bocina para que el conductor que le sigue lo escuche."
+    },
+    "options_en": {
+      "A": "Brake quickly to avoid passing the stop sign.",
+      "B": "Reduce speed by braking moderately to avoid an accident with the vehicle following you.",
+      "C": "Sound your horn three times so that the driver following you can hear you."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 94,
+    "question_es": "¿CUÁL ES EL COMPORTAMIENTO DE UN CONDUCTOR PROFESIONAL ANTE UN CONGESTIONAMIENTO VIAL?",
+    "question_en": "WHAT IS THE BEHAVIOR OF A PROFESSIONAL DRIVER FACING A ROAD CONGESTION?",
+    "options_es": {
+      "A": "Circula entre los vehículos aprovechando los espacios, procurando tener pocos incidentes viales.",
+      "B": "Toca el claxon insistentemente y cambia de carril intempestivamente.",
+      "C": "Espera su turno indicado por el semáforo, no se desespera y busca vías alternas."
+    },
+    "options_en": {
+      "A": "Circulate between vehicles, taking advantage of the spaces, trying to have few road incidents.",
+      "B": "He honks his horn insistently and changes lanes suddenly.",
+      "C": "He waits for his turn indicated by the traffic light, does not despair and looks for alternative routes."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 95,
+    "question_es": "¿CUÁNDO SE CONSIDERA QUE LAS LLANTAS DE LOS VEHÍCULOS NO SON SEGURAS?",
+    "question_en": "WHEN ARE VEHICLE TIRES CONSIDERED UNSAFE?",
+    "options_es": {
+      "A": "Cuando el dibujo de las llantas es menor de 1mm de profundidad.",
+      "B": "Cuando el dibujo de las llantas está muy profundo.",
+      "C": "Cuando las llantas están calientes por el sol y transitamos a 80 Km/h."
+    },
+    "options_en": {
+      "A": "When the tire tread is less than 1mm deep.",
+      "B": "When the tire tread is too deep.",
+      "C": "When the tires are hot from the sun and we travel at 80 km/h."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 96,
+    "question_es": "EN UNA AVENIDA Ó CALZADA DE TRES CARRILES DE CIRCULACÍON, ¿ CUÁL SERÁ EL DE ALTA VELOCIDAD?",
+    "question_en": "ON AN AVENUE OR ROAD WITH THREE CIRCULATION LANES, WHICH WILL BE THE HIGH SPEED LANE ?",
+    "options_es": {
+      "A": "El carril central.",
+      "B": "El carril izquierdo.",
+      "C": "No existen carriles de alta velocidad."
+    },
+    "options_en": {
+      "A": "The center lane.",
+      "B": "The left Lane.",
+      "C": "There are no high speed lanes."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 97,
+    "question_es": "SI AL CONDUCIR SU VEHÍCULO EN CARRETERA, LA LLANTA DELANTERA DERECHA LLEGARA A SALIR DEL PAVIMENTO ¿QUÉ DEBE USTED HACER?:",
+    "question_en": "WHEN DRIVING YOUR VEHICLE ON THE ROAD, THE RIGHT FRONT TIRE GET OFF THE PAVEMENT WHAT SHOULD YOU DO?:",
+    "options_es": {
+      "A": "Aplicar inmediatamente los frenos y volver al pavimento.",
+      "B": "Sujetar con firmeza el volante, quitar el pie del acelerador y volver al pavimento.",
+      "C": "Volver rápidamente al pavimento a su velocidad normal."
+    },
+    "options_en": {
+      "A": "Immediately apply the brakes and return to the pavement.",
+      "B": "Hold the steering wheel firmly, take your foot off the accelerator and return to the pavement.",
+      "C": "Quickly return to the pavement at your normal speed."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 98,
+    "question_es": "POR SEGURIDAD, ¿CUÁNDO DEBEMOS CIRCULAR CON LUCES ENCENDIDAS?:",
+    "question_en": "FOR SAFETY, WHEN SHOULD WE DRIVE WITH LIGHTS ON?:",
+    "options_es": {
+      "A": "Solamente desde la puesta del sol hasta antes de amanecer.",
+      "B": "Solamente si está lloviendo.",
+      "C": "Desde antes de la puesta del sol, hasta después de amanecer."
+    },
+    "options_en": {
+      "A": "Only from sunset to before sunrise.",
+      "B": "Only if it's raining.",
+      "C": "From before sunset to after sunrise."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 99,
+    "question_es": "¿QUÉ ENTENDEMOS POR MANEJO DEFENSIVO?:",
+    "question_en": "WHAT DO WE UNDERSTAND BY DEFENSIVE DRIVING?:",
+    "options_es": {
+      "A": "Conducir a muy baja velocidad.",
+      "B": "Conducir un vehículo respetando las normas de vialidad para prevenir accidentes a pesar de los errores de los demás.",
+      "C": "Conducir a baja velocidad a pesar de los retrasos en los horarios."
+    },
+    "options_en": {
+      "A": "Driving at very low speed.",
+      "B": "Drive a vehicle respecting the rules of the road to prevent accidents despite the mistakes of others.",
+      "C": "Driving at low speed despite schedule delays."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 100,
+    "question_es": "SI AL APROXIMARSE A UN CRUCERO EL COLOR DE LA LUZ DEL SEMÁFORO NO SE OBSERVA CLARO DEBIDO A LA ILUMINACIÓN DEL SOL, ¿QUÉ MEDIDAS DE SEGURIDAD DEBE DE REALIZAR?",
+    "question_en": "WHEN APPROACHING A CROSSROAD AND THE COLOR OF THE TRAFFIC LIGHT IS NOT OBSERVED DUE TO THE LIGHTING OF THE SUN, WHAT SAFETY MEASURES SHOULD YOU TAKE?",
+    "options_es": {
+      "A": "Ceder el paso a los vehículos que transitan de Oriente a Poniente y esperar mi turno para cruzar.",
+      "B": "Disminuir la velocidad, observar la circulación de la calle que cruzaré además de su semáforo y, si me corresponde el siga, cruzar con precaución.",
+      "C": "Pasar lo más rápido que se pueda, evitando chocar con los demás vehículos."
+    },
+    "options_en": {
+      "A": "Give way to vehicles traveling from East to West and wait for my turn to cross.",
+      "B": "Slow down, observe the traffic of the street that I will cross in addition to its traffic light and, if it is my turn, cross with caution.",
+      "C": "Pass as quickly as possible, avoiding colliding with other vehicles."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 101,
+    "question_es": "¿CUÁLES SON LAS VENTAJAS DE REVISAR LLANTAS, BANDAS, LUCES Y NIVELES DE FLUIDOS CON LA PERIODICIDAD RECOMENDADA POR EL FABRICANTE?",
+    "question_en": "WHAT ARE THE ADVANTAGES OF CHECKING TIRES, BELTS, LIGHTS AND FLUID LEVELS WITH THE PERIODICITY RECOMMENDED BY THE MANUFACTURER?",
+    "options_es": {
+      "A": "Evitar los accidentes con peatones.",
+      "B": "Anticiparse a imprevistos, sobrecalentamiento y daño del motor, así como accidentes viales.",
+      "C": "Se previenen conflictos viales y conductores arrollados."
+    },
+    "options_en": {
+      "A": "Avoid accidents with pedestrians.",
+      "B": "Anticipate unforeseen events, overheating and engine damage, as well as road accidents.",
+      "C": "Traffic conflicts and hit drivers are prevented."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 102,
+    "question_es": "¿CUÁLES SON LAS OBLIGACIONES DE UN CONDUCTOR RESPONSABLE?",
+    "question_en": "WHAT ARE THE OBLIGATIONS OF A RESPONSIBLE DRIVER?",
+    "options_es": {
+      "A": "Respetar los derechos y obligaciones de los demás usuarios de las vías públicas, así como las señales de tránsito e indicaciones de los Agente viales.",
+      "B": "Conducir con precaución, excediendo la velocidad solo cuando necesite hacerlo.",
+      "C": "Evitar accidentes al conducir, respetando el señalamiento vial a menos que por necesidad personal requiera no respetar los que considere menos importantes."
+    },
+    "options_en": {
+      "A": "Respect the rights and obligations of other users of public roads, as well as the traffic signs and instructions of road agents.",
+      "B": "Drive carefully, exceeding speed only when necessary.",
+      "C": "Avoid accidents when driving, respecting road signs unless personal necessity requires not to. respect those you consider less important."
+    },
+    "answer": "A",
+    "image": null
+  },
+  {
+    "id": 103,
+    "question_es": "DE LAS SIGUIENTES OPCIONES ¿CUÁL ES LA FORMA MÁS SEGURA PARA CAMBIAR UNA LLANTA PONCHADA?",
+    "question_en": "OF THE FOLLOWING OPTIONS, WHICH IS THE SAFEEST WAY TO CHANGE A TIRE? PUNCHOUT?",
+    "options_es": {
+      "A": "Estacionar el vehículo en una superficie plana, asegurar las llantas con un bloque de madera y cambiar la llanta como mejor se pueda.",
+      "B": "Evitar que el vehículo estorbe a los demás conductores, poner el freno de mano, asegurar las llantas con un bloque de madera después colocar en forma segura el gato, aflojar las tuercas de la llanta sólo media vuelta, subir el gato de tal forma que la llanta se eleve 3 cm, cambiar la llanta, bajar el gato y apretar fuerte las tuercas, quitar bloques de madera.",
+      "C": "Subir el vehículo preferentemente a la banqueta colocar el gato en cualquier punto del vehículo y subirlo lo más alto posible luego aflojar las tuercas deteniendo la llanta con los pies para evitar que de vueltas, cambiar la llanta, quitar gato y circular con seguridad."
+    },
+    "options_en": {
+      "A": "Park the vehicle on a flat surface, secure the tires with a block of wood, and change the tire as best as possible",
+      "B": "Prevent the vehicle from interfering with other drivers, set the handbrake, secure the wheels with a block of wood then securely place the jack, loosen the lug nuts only half a turn, raise the jack so that the tire is raised 3 cm, change the tire, lower the jack and tighten the nuts, remove wooden blocks.",
+      "C": "Raise the vehicle, preferably on the sidewalk, place the jack anywhere on the vehicle and raise it as high as possible. as high as possible then loosen the nuts, stopping the rim with your feet to prevent it from spinning, change the tire, remove jack and drive safely."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 104,
+    "question_es": "SI CUANDO NOS SUBIMOS A NUESTRO VEHÍCULO EL PARABRISAS ESTÁ SUCIO, ES RECOMENDABLE:",
+    "question_en": "WHEN WE GET INTO OUR VEHICLE THE WINDSHIELD IS DIRTY, IT IS ADVISABLE:",
+    "options_es": {
+      "A": "Circular a alta velocidad para limpiarlo y así conduciremos más seguros.",
+      "B": "Limpiarlo de preferencia con agua corriente y un poco de jabón.",
+      "C": "Utilizar los limpiabrisas en seco ya que evitamos que se haga lodo con la tierra o el polvo."
+    },
+    "options_en": {
+      "A": "Drive at high speed to clean it and thus we will drive safer.",
+      "B": "Clean it preferably with running water and a bit of soap.",
+      "C": "Use dry windshield wipers as this prevents dirt or dust from becoming muddy."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 105,
+    "question_es": "¿ES NECESARIO AJUSTAR LOS ESPEJOS RETROVISORES DEL VEHICULO A NUESTRA ALTURA SI VAMOS A CIRCULAR SOLAMENTE 1 KM?",
+    "question_en": "IS IT NECESSARY TO ADJUST THE REARVIEW MIRRORS OF THE VEHICLE TO OUR HEIGHT IF WE ARE GOING TO DRIVE ONLY 1 KM?",
+    "options_es": {
+      "A": "No es necesarios en tramos cortos.",
+      "B": "Realmente no es importante.",
+      "C": "Sí es necesario por seguridad sin importar la distancia."
+    },
+    "options_en": {
+      "A": "It is not necessary for short distance.",
+      "B": "It's really not important.",
+      "C": "Yes, it is necessary for safety regardless of the distance."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 106,
+    "question_es": "PARA CONDUCIR EN FORMA MÁS SEGURA EN LAS CALLES DE LA CIUDAD SE REQUIERE CONTRAR CON:",
+    "question_en": "TO DRIVE SAFER ON CITY STREETS IT IS REQUIRED TO AGREE WITH:",
+    "options_es": {
+      "A": "Conocimientos de Ley y Reglamento de Tránsito del Estado.",
+      "B": "Conocimientos básicos de seguridad, destrezas para conducir, y respeto a la vida.",
+      "C": "Tarjeta de circulación, licencia y seguro vial."
+    },
+    "options_en": {
+      "A": "Knowledge of State Traffic Law and Regulations.",
+      "B": "Basic knowledge of safety, driving skills, and respect for life.",
+      "C": "Circulation card, license and road insurance."
+    },
+    "answer": "B",
+    "image": null
+  },
+  {
+    "id": 107,
+    "question_es": "SI AL APROXIMARNOS A UN CRUCERO NO SE VE CLARAMENTE EL SEMÁFORO YA QUE ANUNCIOS, ÁRBOLES U OTROS OBJETOS ME IMPIDEN VERLO CON CLARIDAD, SE RECOMIENDA POR SEGURIDAD HACER LO SIGUIENTE:",
+    "question_en": "WHEN APPROACHING A CROSSROAD, THE TRAFFIC LIGHT IS NOT CLEARLY SEEN, BECAUSE ADVERTISEMENTS, TREES OR OTHER OBJECTS PREVENT ME FROM SEEING IT CLEARLY, IT IS RECOMMENDED FOR SAFETY DO THE FOLLOWING:",
+    "options_es": {
+      "A": "Acelerar y tocar el claxon para que los otros conductores me cedan el paso.",
+      "B": "Dejar de acelerar y pasar despacio.",
+      "C": "Disminuir velocidad, llegar con precaución al cruce procurando ver el semáforo de más cerca y observar detenidamente hacia ambos lados evitando cualquier problema."
+    },
+    "options_en": {
+      "A": "Accelerate and honk the horn to make other drivers give way to me.",
+      "B": "Stop accelerating and go slowly.",
+      "C": "Slow down, arrive with caution at the intersection, trying to see the traffic light more closely and observe carefully towards both sides avoiding any problem."
+    },
+    "answer": "C",
+    "image": null
+  },
+  {
+    "id": 108,
+    "question_es": "AL CIRCULAR DURANTE LA NOCHE EN CONDICIONES OPTIMAS DE CLIMA:",
+    "question_en": "WHEN DRIVING DURING THE NIGHT IN OPTIMUM WEATHER CONDITIONS:",
+    "options_es": {
+      "A": "Podemos distinguir a un peatón con ropa obscura a 100 metros de distancia.",
+      "B": "Es difícil ver a los peatones a más de 20 metros, por eso se debe de extremar precauciones al circular por zonas urbanas y/o donde haya concentraciones de peatones.",
+      "C": "Podemos ver a un peatón vestido con ropa amarilla desde una distancia de 80 m."
+    },
+    "options_en": {
+      "A": "We can distinguish a pedestrian wearing dark clothing 100 meters away.",
+      "B": "It is difficult to see pedestrians more than 20 meters away, so extreme caution must be taken when driving through urban areas and/or where there are concentrations of pedestrians.",
+      "C": "We can see a pedestrian wearing yellow clothes from a distance of 80 m."
+    },
+    "answer": "B",
+    "image": null
+  }
+]
