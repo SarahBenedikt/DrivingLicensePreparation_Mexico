@@ -19,8 +19,8 @@ This web application helps users prepare for the Mexican driving license exam (A
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/driving-license-prep.git
-   cd driving-license-prep
+   git clone https://github.com/SarahBenedikt/DrivingLicensePreparation_Mexico.git
+   cd DrivingLicensePreparation_Mexico
    ```
 2. Install dependencies:
    ```sh
